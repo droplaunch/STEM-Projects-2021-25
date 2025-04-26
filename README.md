@@ -1,2 +1,2 @@
-# First-Year-Stem-Project-2022
-A repository for a certain collection of Python projects
+# STEM-Projects-2021-25
+A repository for a certain collection of AI and other associated projects
